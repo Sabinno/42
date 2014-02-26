@@ -1,6 +1,7 @@
 // Forty Two
 // Entry point to the very sophisticated Forty two
 // Copyright (C) 2014 Alan Potteiger
+// Copyright (C) 2014 Tcll
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
